@@ -2,7 +2,7 @@
 
 **Descripción del proyecto**
 
-Este proyecto consiste en una aplicación que permite gestionar solicitudes de clientes dentrp de una empresa de servicios tecnólogicos.
+Este proyecto consiste en una aplicación que permite gestionar solicitudes de clientes dentro de una empresa de servicios tecnólogicos.
 
 Su propósito es brindar un control claro, ordenado y confiable sobre cada solicitud, permitiendo registrar, consultar y actualizar su estado de forma eficiente.
 
